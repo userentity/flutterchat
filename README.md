@@ -38,7 +38,7 @@ $ cd flutter_chat/
 * Click "Google" and enable it
 * Click "Email/Password" and enable it
 
-Don't forget to add update REVERSED_CLIENT_ID in flutter_chat/ios/Runner/Info.plist (https://pub.dev/packages/google_sign_in)
+Don't forget to update REVERSED_CLIENT_ID in flutter_chat/ios/Runner/Info.plist (https://pub.dev/packages/google_sign_in)
 
 3. Enable the Firestore Database
 * Go to the Firebase Console
@@ -66,7 +66,7 @@ Don't forget to add update REVERSED_CLIENT_ID in flutter_chat/ios/Runner/Info.pl
 - [ ] MacOS/Windows/Linux platform 
 
 ## Created & Maintained By
-* [Raman](https://github.com/userentity)
+* [Roman](https://github.com/userentity)
 * Telegram: [@userentity](https://t.me/userentity)
 * Gmail: [rustinenkodev@gmail.com](mailto:https://rustinenkodev@gmail.com)
 > I desperately need a job! I would be happy to receive Flutter job offers (project or full day).
