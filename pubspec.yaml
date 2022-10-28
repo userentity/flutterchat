@@ -1,0 +1,66 @@
+name: flutterchat
+description: Flutter chat based on Firebase (using Clean Architecture + Bloc)
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+2
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.1
+  get_it: ^7.2.0
+  injectable: ^1.5.3
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  freezed_annotation: ^2.1.0
+  auto_route: ^5.0.1
+  flutter_slidable: ^2.0.0
+  path_provider: ^2.0.11
+  intl: ^0.17.0
+  animated_text_kit: ^4.2.2
+  flutter_svg: ^1.1.5
+  modal_bottom_sheet: ^2.1.2
+  google_fonts: ^3.0.1
+  image_picker: ^0.8.6
+  flutter_easyloading: ^3.0.5
+  validators: ^3.0.0
+  firebase_core: ^2.1.1
+  firebase_auth: ^4.1.0
+  cloud_firestore: ^4.0.3
+  firebase_storage: ^11.0.3
+  google_sign_in: ^5.4.2
+  fluttertoast: ^8.0.9
+  flutter_signin_button: ^2.0.0
+  camera: ^0.10.0+3
+  faker: ^2.0.0
+  flutter_cache_manager: ^3.3.0
+  extended_image: ^6.3.1
+  better_player: ^0.0.83
+  audio_waveforms: ^0.1.5+1
+  video_thumbnail: ^0.5.3
+  uuid: ^3.0.6
+  path: ^1.8.2
+  permission_handler: ^10.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  auto_route_generator: ^5.0.2
+  build_runner: ^2.2.0
+  freezed: ^2.1.0+1
+  json_serializable: ^6.3.2
+  injectable_generator: ^1.5.4
+
+flutter:
+  assets:
+    - assets/images/
+  uses-material-design: true
+  generate: true

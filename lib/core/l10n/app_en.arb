@@ -1,0 +1,26 @@
+{
+    "chats": "Chats",
+    "newChat": "New Chat",
+    "chatsEmpty": "You have no\nconversation yet",
+
+    "profile": "Profile",
+    "editBtn": "Edit",
+    "signOutBtn": "Sign Out",
+
+    "searchEmailField": "Search By Email (full)",
+
+    "message": "Message",
+    "messagesEmpty": "No messages here yet...",
+
+    "login": "Login",
+    "createAccount": "Create Account",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordValidation": "Confirm password not matching",
+    "nextBtn": "Next",
+
+    "flutterInto": "Flutter messenger example using \nClean Architecture + Bloc",
+    "alreadyHaveAccount": "I already have an account"
+}

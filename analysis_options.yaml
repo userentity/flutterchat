@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_final_fields: true
+    avoid_types_on_closure_parameters: true
+    type_init_formals: true
+
