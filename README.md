@@ -10,10 +10,10 @@ Using Clean Architecture (Uncle Bob 🥰) + Bloc.
 
 ## Screenshots
 <p>
-<img src="https://raw.githubusercontent.com/userentity/flutterchat/screens/g1.png" width="250">
-<img src="https://raw.githubusercontent.com/userentity/flutterchat/screens/g1.png" width="250">
-<img src="https://raw.githubusercontent.com/userentity/flutterchat/screens/g1.png" width="250">
-<img src="https://raw.githubusercontent.com/userentity/flutterchat/screens/g1.png" width="250">
+<img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screens/g1.png" width="250">
+<img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screens/g2.png" width="250">
+<img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screens/g3.png" width="250">
+<img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screens/g4.png" width="250">
 </p>
 
 ## Getting started
@@ -66,7 +66,7 @@ Don't forget to add update REVERSED_CLIENT_ID in flutter_chat/ios/Runner/Info.pl
 - [ ] MacOS/Windows/Linux platform 
 
 ## Created & Maintained By
-[Raman](https://github.com/userentity)
-Telegram: [@userentity](https://t.me/userentity)
-Gmail: [rustinenkodev@gmail.com](mailto:https://rustinenkodev@gmail.com)
+* [Raman](https://github.com/userentity)
+* Telegram: [@userentity](https://t.me/userentity)
+* Gmail: [rustinenkodev@gmail.com](mailto:https://rustinenkodev@gmail.com)
 > I desperately need a job! I would be happy to receive Flutter job offers (project or full day).
