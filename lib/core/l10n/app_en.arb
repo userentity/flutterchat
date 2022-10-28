@@ -21,6 +21,6 @@
     "confirmPasswordValidation": "Confirm password not matching",
     "nextBtn": "Next",
 
-    "flutterInto": "Flutter messenger example using \nClean Architecture + Bloc",
+    "flutterInto": "Flutter Chat based on Firebase (Auth/Storage/Database). \nUsing Clean Architecture + Bloc",
     "alreadyHaveAccount": "I already have an account"
 }

@@ -69,7 +69,7 @@ class _OnboardingPageState extends State<OnboardingPage> {
                             repeatForever: true,
                             animatedTexts: [
                               ColorizeAnimatedText(
-                                'messenger',
+                                'CHAT APP',
                                 speed: const Duration(milliseconds: 600),
                                 textAlign: TextAlign.center,
                                 textStyle: const TextStyle(
@@ -85,11 +85,14 @@ class _OnboardingPageState extends State<OnboardingPage> {
                           const SizedBox(
                             height: UI.padding * 2,
                           ),
-                          Text(
-                            AppLocalizations.of(context)!.flutterInto,
-                            textAlign: TextAlign.center,
-                            style: const TextStyle(
-                              fontSize: 16,
+                          Padding(
+                            padding: const Margin.horizontal(30),
+                            child: Text(
+                              AppLocalizations.of(context)!.flutterInto,
+                              textAlign: TextAlign.center,
+                              style: const TextStyle(
+                                fontSize: 16,
+                              ),
                             ),
                           ),
                           const Spacer(

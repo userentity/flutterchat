@@ -10,6 +10,8 @@ Using Clean Architecture (Uncle Bob 🥰) + Bloc.
 
 ## Screenshots
 <p>
+<img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screenshots/g00.png" width="250">
+<img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screenshots/g01.png" width="250">
 <img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screenshots/g1.png" width="250">
 <img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screenshots/g2.png" width="250">
 <img src="https://raw.githubusercontent.com/userentity/flutterchat/master/screenshots/g3.png" width="250">
